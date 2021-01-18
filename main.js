@@ -1,6 +1,6 @@
 function RetornaPar(numeroRecebido)
 {
-    if(numeroRecebido % 2 == 0)
+    if(numeroRecebido % 2 != 0)
     {
         return true;
     }
